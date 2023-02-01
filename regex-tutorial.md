@@ -99,4 +99,4 @@
 
 ## Author
 
-* This concludes my regex-tutorial. My name is Bryant Huynh I am an aspiring full-stack engineer who currently attends the SMU Bootcamp. My GitHub is https://github.com/bhuynh017 and my email is bhuynh017@gmail.com Please feel free to contact me in either platform!
+* This concludes my regex-tutorial. My name is Bryant Huynh I am an aspiring full-stack engineer who currently attends the SMU Bootcamp. My GitHub is https://github.com/bhuynh017 and my email is bhuynh017@gmail.com. I am also including my LinkedIn https://www.linkedin.com/in/bryanthuynh17/. Please feel free to contact me in either platform!
